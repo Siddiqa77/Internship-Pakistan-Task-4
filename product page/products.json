@@ -1,0 +1,102 @@
+
+[
+    {
+        "id": 1,
+        "name":" MEN SHOES ",
+        "price":  200,
+        "image": "images/1.png"
+    },
+    {
+        "id": 2,
+        "name":" MEN SHOES BROWNISH",
+        "price": 300,
+        "image": "images/2.png"
+    },
+    {
+        "id": 3,
+        "name":" MEN SHOES SUPER BLACK",
+        "price": 250,
+        "image": "images/3.png"
+    },
+    {
+        "id": 4,
+        "name":" MEN STYLISH BLACK",
+        "price": 200,
+        "image": "images/4.png"
+    },
+    {
+        "id": 5,
+        "name":" LADIES SANDAL STYLISH",
+        "price": 300,
+        "image": "images/5.png"
+    },
+    {
+        "id": 6,
+        "name":" LUXURY LADIES SANDAL",
+        "price": 200,
+        "image": "images/6.png"
+    },
+    {
+        "id": 7,
+        "name":" LADIES STYLISH SANDAL",
+        "price": 200,
+        "image": "images/7.png"
+    },
+    {
+        "id": 8,
+        "name":" LADIES LUXURY",
+        "price": 200,
+        "image": "images/8.png"
+    },
+    {
+        "id": 9,
+        "name":" LADIES STONE CLASSIC",
+        "price": 200,
+        "image": "images/9.png"
+    },
+    {
+        "id": 10,
+        "name":" LADIES STYLISH BLUE",
+        "price": 200,
+        "image": "images/10.png"
+    },
+    {
+        "id": 11,
+        "name":" LADIES STYLISH PUMMPY",
+        "price": 200,
+        "image": "images/11.png"
+    },
+    {
+        "id": 12,
+        "name":" LADIES THIN HEEL STYLE",
+        "price": 200,
+        "image": "images/12.png"
+    },
+    {
+        "id": 13,
+        "name":" KIDS STYLISH SHOE",
+        "price": 200,
+        "image": "images/13.png"
+    },
+    {
+        "id": 14,
+        "name":" KIDS JOGER",
+        "price": 200,
+        "image": "images/14.png"
+    },
+    {
+        "id": 15,
+        "name":" KIDS PARTY WEAR",
+        "price": 200,
+        "image": "images/15.png"
+    },
+    {
+        "id": 16,
+        "name":" KIDS PARTY STYLE",
+        "price": 200,
+        "image": "images/16.png"
+    }
+    
+
+]
+
